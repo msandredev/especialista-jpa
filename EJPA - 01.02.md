@@ -1,4 +1,4 @@
-# Banco de dados MySQL
+# SGBD MySQL
 
 No curso será utilizado o MySQL mas no meu caso, irei utilizar o MySQL em um container do Docker.
 
